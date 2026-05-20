@@ -1,0 +1,9 @@
+[package]
+name = "social-engineering-awareness"
+version = "1.0.0"
+edition = "2021"
+authors = ["TricksXTech"]
+description = "Educational Social Engineering Awareness Tool written in Rust"
+license = "MIT"
+
+[dependencies]
